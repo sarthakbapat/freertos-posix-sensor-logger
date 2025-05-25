@@ -1,0 +1,3 @@
+/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles/freertos_sim.dir
+/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles/edit_cache.dir
+/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles/rebuild_cache.dir
