@@ -1,5 +1,4 @@
 #include "Sensor.h"
-#include "queue.h"
 
 extern QueueHandle_t sensorDataSharedQueue; 
 
