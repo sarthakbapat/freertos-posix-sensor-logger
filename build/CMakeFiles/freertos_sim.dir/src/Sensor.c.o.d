@@ -1,7 +1,7 @@
 CMakeFiles/freertos_sim.dir/src/Sensor.c.o: \
   /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/src/Sensor.c \
   /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/inc/Sensor.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/FreeRTOS.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/FreeRTOS.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_header_macro.h \
@@ -33,20 +33,20 @@ CMakeFiles/freertos_sim.dir/src/Sensor.c.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
   /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/inc/FreeRTOSConfig.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/projdefs.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/portable.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/deprecated_definitions.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/portmacro.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/projdefs.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/portable.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/deprecated_definitions.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/portmacro.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/mpu_wrappers.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/queue.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/task.h \
-  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include/list.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/mpu_wrappers.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/queue.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/task.h \
+  /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include/list.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_bounds.h \

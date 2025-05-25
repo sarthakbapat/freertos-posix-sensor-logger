@@ -129,197 +129,197 @@ freertos_sim/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/build
 .PHONY : freertos_sim/fast
 
-FreeRTOS-Kernel/event_groups.o: FreeRTOS-Kernel/event_groups.c.o
-.PHONY : FreeRTOS-Kernel/event_groups.o
+FreeRTOS-kernel/event_groups.o: FreeRTOS-kernel/event_groups.c.o
+.PHONY : FreeRTOS-kernel/event_groups.o
 
 # target to build an object file
-FreeRTOS-Kernel/event_groups.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o
-.PHONY : FreeRTOS-Kernel/event_groups.c.o
+FreeRTOS-kernel/event_groups.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o
+.PHONY : FreeRTOS-kernel/event_groups.c.o
 
-FreeRTOS-Kernel/event_groups.i: FreeRTOS-Kernel/event_groups.c.i
-.PHONY : FreeRTOS-Kernel/event_groups.i
+FreeRTOS-kernel/event_groups.i: FreeRTOS-kernel/event_groups.c.i
+.PHONY : FreeRTOS-kernel/event_groups.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/event_groups.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.i
-.PHONY : FreeRTOS-Kernel/event_groups.c.i
+FreeRTOS-kernel/event_groups.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.i
+.PHONY : FreeRTOS-kernel/event_groups.c.i
 
-FreeRTOS-Kernel/event_groups.s: FreeRTOS-Kernel/event_groups.c.s
-.PHONY : FreeRTOS-Kernel/event_groups.s
+FreeRTOS-kernel/event_groups.s: FreeRTOS-kernel/event_groups.c.s
+.PHONY : FreeRTOS-kernel/event_groups.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/event_groups.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.s
-.PHONY : FreeRTOS-Kernel/event_groups.c.s
+FreeRTOS-kernel/event_groups.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.s
+.PHONY : FreeRTOS-kernel/event_groups.c.s
 
-FreeRTOS-Kernel/list.o: FreeRTOS-Kernel/list.c.o
-.PHONY : FreeRTOS-Kernel/list.o
+FreeRTOS-kernel/list.o: FreeRTOS-kernel/list.c.o
+.PHONY : FreeRTOS-kernel/list.o
 
 # target to build an object file
-FreeRTOS-Kernel/list.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o
-.PHONY : FreeRTOS-Kernel/list.c.o
+FreeRTOS-kernel/list.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o
+.PHONY : FreeRTOS-kernel/list.c.o
 
-FreeRTOS-Kernel/list.i: FreeRTOS-Kernel/list.c.i
-.PHONY : FreeRTOS-Kernel/list.i
+FreeRTOS-kernel/list.i: FreeRTOS-kernel/list.c.i
+.PHONY : FreeRTOS-kernel/list.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/list.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.i
-.PHONY : FreeRTOS-Kernel/list.c.i
+FreeRTOS-kernel/list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.i
+.PHONY : FreeRTOS-kernel/list.c.i
 
-FreeRTOS-Kernel/list.s: FreeRTOS-Kernel/list.c.s
-.PHONY : FreeRTOS-Kernel/list.s
+FreeRTOS-kernel/list.s: FreeRTOS-kernel/list.c.s
+.PHONY : FreeRTOS-kernel/list.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/list.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.s
-.PHONY : FreeRTOS-Kernel/list.c.s
+FreeRTOS-kernel/list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.s
+.PHONY : FreeRTOS-kernel/list.c.s
 
-FreeRTOS-Kernel/portable/MemMang/heap_4.o: FreeRTOS-Kernel/portable/MemMang/heap_4.c.o
-.PHONY : FreeRTOS-Kernel/portable/MemMang/heap_4.o
+FreeRTOS-kernel/portable/MemMang/heap_4.o: FreeRTOS-kernel/portable/MemMang/heap_4.c.o
+.PHONY : FreeRTOS-kernel/portable/MemMang/heap_4.o
 
 # target to build an object file
-FreeRTOS-Kernel/portable/MemMang/heap_4.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o
-.PHONY : FreeRTOS-Kernel/portable/MemMang/heap_4.c.o
+FreeRTOS-kernel/portable/MemMang/heap_4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o
+.PHONY : FreeRTOS-kernel/portable/MemMang/heap_4.c.o
 
-FreeRTOS-Kernel/portable/MemMang/heap_4.i: FreeRTOS-Kernel/portable/MemMang/heap_4.c.i
-.PHONY : FreeRTOS-Kernel/portable/MemMang/heap_4.i
+FreeRTOS-kernel/portable/MemMang/heap_4.i: FreeRTOS-kernel/portable/MemMang/heap_4.c.i
+.PHONY : FreeRTOS-kernel/portable/MemMang/heap_4.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/portable/MemMang/heap_4.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.i
-.PHONY : FreeRTOS-Kernel/portable/MemMang/heap_4.c.i
+FreeRTOS-kernel/portable/MemMang/heap_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.i
+.PHONY : FreeRTOS-kernel/portable/MemMang/heap_4.c.i
 
-FreeRTOS-Kernel/portable/MemMang/heap_4.s: FreeRTOS-Kernel/portable/MemMang/heap_4.c.s
-.PHONY : FreeRTOS-Kernel/portable/MemMang/heap_4.s
+FreeRTOS-kernel/portable/MemMang/heap_4.s: FreeRTOS-kernel/portable/MemMang/heap_4.c.s
+.PHONY : FreeRTOS-kernel/portable/MemMang/heap_4.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/portable/MemMang/heap_4.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.s
-.PHONY : FreeRTOS-Kernel/portable/MemMang/heap_4.c.s
+FreeRTOS-kernel/portable/MemMang/heap_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.s
+.PHONY : FreeRTOS-kernel/portable/MemMang/heap_4.c.s
 
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.o: FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.o
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.o: FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.o
 
 # target to build an object file
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o
 
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.i: FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.i
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.i: FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i
 
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.s: FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.s
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.s: FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s
 
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.o: FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.o
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.o: FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.o
 
 # target to build an object file
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
 
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.i: FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.i
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.i: FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
 
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.s: FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.s
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.s: FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
-.PHONY : FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
+FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
+.PHONY : FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
 
-FreeRTOS-Kernel/queue.o: FreeRTOS-Kernel/queue.c.o
-.PHONY : FreeRTOS-Kernel/queue.o
+FreeRTOS-kernel/queue.o: FreeRTOS-kernel/queue.c.o
+.PHONY : FreeRTOS-kernel/queue.o
 
 # target to build an object file
-FreeRTOS-Kernel/queue.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o
-.PHONY : FreeRTOS-Kernel/queue.c.o
+FreeRTOS-kernel/queue.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o
+.PHONY : FreeRTOS-kernel/queue.c.o
 
-FreeRTOS-Kernel/queue.i: FreeRTOS-Kernel/queue.c.i
-.PHONY : FreeRTOS-Kernel/queue.i
+FreeRTOS-kernel/queue.i: FreeRTOS-kernel/queue.c.i
+.PHONY : FreeRTOS-kernel/queue.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/queue.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.i
-.PHONY : FreeRTOS-Kernel/queue.c.i
+FreeRTOS-kernel/queue.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.i
+.PHONY : FreeRTOS-kernel/queue.c.i
 
-FreeRTOS-Kernel/queue.s: FreeRTOS-Kernel/queue.c.s
-.PHONY : FreeRTOS-Kernel/queue.s
+FreeRTOS-kernel/queue.s: FreeRTOS-kernel/queue.c.s
+.PHONY : FreeRTOS-kernel/queue.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/queue.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.s
-.PHONY : FreeRTOS-Kernel/queue.c.s
+FreeRTOS-kernel/queue.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.s
+.PHONY : FreeRTOS-kernel/queue.c.s
 
-FreeRTOS-Kernel/tasks.o: FreeRTOS-Kernel/tasks.c.o
-.PHONY : FreeRTOS-Kernel/tasks.o
+FreeRTOS-kernel/tasks.o: FreeRTOS-kernel/tasks.c.o
+.PHONY : FreeRTOS-kernel/tasks.o
 
 # target to build an object file
-FreeRTOS-Kernel/tasks.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o
-.PHONY : FreeRTOS-Kernel/tasks.c.o
+FreeRTOS-kernel/tasks.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o
+.PHONY : FreeRTOS-kernel/tasks.c.o
 
-FreeRTOS-Kernel/tasks.i: FreeRTOS-Kernel/tasks.c.i
-.PHONY : FreeRTOS-Kernel/tasks.i
+FreeRTOS-kernel/tasks.i: FreeRTOS-kernel/tasks.c.i
+.PHONY : FreeRTOS-kernel/tasks.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/tasks.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.i
-.PHONY : FreeRTOS-Kernel/tasks.c.i
+FreeRTOS-kernel/tasks.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.i
+.PHONY : FreeRTOS-kernel/tasks.c.i
 
-FreeRTOS-Kernel/tasks.s: FreeRTOS-Kernel/tasks.c.s
-.PHONY : FreeRTOS-Kernel/tasks.s
+FreeRTOS-kernel/tasks.s: FreeRTOS-kernel/tasks.c.s
+.PHONY : FreeRTOS-kernel/tasks.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/tasks.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.s
-.PHONY : FreeRTOS-Kernel/tasks.c.s
+FreeRTOS-kernel/tasks.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.s
+.PHONY : FreeRTOS-kernel/tasks.c.s
 
-FreeRTOS-Kernel/timers.o: FreeRTOS-Kernel/timers.c.o
-.PHONY : FreeRTOS-Kernel/timers.o
+FreeRTOS-kernel/timers.o: FreeRTOS-kernel/timers.c.o
+.PHONY : FreeRTOS-kernel/timers.o
 
 # target to build an object file
-FreeRTOS-Kernel/timers.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o
-.PHONY : FreeRTOS-Kernel/timers.c.o
+FreeRTOS-kernel/timers.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o
+.PHONY : FreeRTOS-kernel/timers.c.o
 
-FreeRTOS-Kernel/timers.i: FreeRTOS-Kernel/timers.c.i
-.PHONY : FreeRTOS-Kernel/timers.i
+FreeRTOS-kernel/timers.i: FreeRTOS-kernel/timers.c.i
+.PHONY : FreeRTOS-kernel/timers.i
 
 # target to preprocess a source file
-FreeRTOS-Kernel/timers.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.i
-.PHONY : FreeRTOS-Kernel/timers.c.i
+FreeRTOS-kernel/timers.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.i
+.PHONY : FreeRTOS-kernel/timers.c.i
 
-FreeRTOS-Kernel/timers.s: FreeRTOS-Kernel/timers.c.s
-.PHONY : FreeRTOS-Kernel/timers.s
+FreeRTOS-kernel/timers.s: FreeRTOS-kernel/timers.c.s
+.PHONY : FreeRTOS-kernel/timers.s
 
 # target to generate assembly for a file
-FreeRTOS-Kernel/timers.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.s
-.PHONY : FreeRTOS-Kernel/timers.c.s
+FreeRTOS-kernel/timers.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/freertos_sim.dir/build.make CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.s
+.PHONY : FreeRTOS-kernel/timers.c.s
 
 src/Sensor.o: src/Sensor.c.o
 .PHONY : src/Sensor.o
@@ -378,30 +378,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... freertos_sim"
-	@echo "... FreeRTOS-Kernel/event_groups.o"
-	@echo "... FreeRTOS-Kernel/event_groups.i"
-	@echo "... FreeRTOS-Kernel/event_groups.s"
-	@echo "... FreeRTOS-Kernel/list.o"
-	@echo "... FreeRTOS-Kernel/list.i"
-	@echo "... FreeRTOS-Kernel/list.s"
-	@echo "... FreeRTOS-Kernel/portable/MemMang/heap_4.o"
-	@echo "... FreeRTOS-Kernel/portable/MemMang/heap_4.i"
-	@echo "... FreeRTOS-Kernel/portable/MemMang/heap_4.s"
-	@echo "... FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.o"
-	@echo "... FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.i"
-	@echo "... FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.s"
-	@echo "... FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.o"
-	@echo "... FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.i"
-	@echo "... FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.s"
-	@echo "... FreeRTOS-Kernel/queue.o"
-	@echo "... FreeRTOS-Kernel/queue.i"
-	@echo "... FreeRTOS-Kernel/queue.s"
-	@echo "... FreeRTOS-Kernel/tasks.o"
-	@echo "... FreeRTOS-Kernel/tasks.i"
-	@echo "... FreeRTOS-Kernel/tasks.s"
-	@echo "... FreeRTOS-Kernel/timers.o"
-	@echo "... FreeRTOS-Kernel/timers.i"
-	@echo "... FreeRTOS-Kernel/timers.s"
+	@echo "... FreeRTOS-kernel/event_groups.o"
+	@echo "... FreeRTOS-kernel/event_groups.i"
+	@echo "... FreeRTOS-kernel/event_groups.s"
+	@echo "... FreeRTOS-kernel/list.o"
+	@echo "... FreeRTOS-kernel/list.i"
+	@echo "... FreeRTOS-kernel/list.s"
+	@echo "... FreeRTOS-kernel/portable/MemMang/heap_4.o"
+	@echo "... FreeRTOS-kernel/portable/MemMang/heap_4.i"
+	@echo "... FreeRTOS-kernel/portable/MemMang/heap_4.s"
+	@echo "... FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.o"
+	@echo "... FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.i"
+	@echo "... FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.s"
+	@echo "... FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.o"
+	@echo "... FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.i"
+	@echo "... FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.s"
+	@echo "... FreeRTOS-kernel/queue.o"
+	@echo "... FreeRTOS-kernel/queue.i"
+	@echo "... FreeRTOS-kernel/queue.s"
+	@echo "... FreeRTOS-kernel/tasks.o"
+	@echo "... FreeRTOS-kernel/tasks.i"
+	@echo "... FreeRTOS-kernel/tasks.s"
+	@echo "... FreeRTOS-kernel/timers.o"
+	@echo "... FreeRTOS-kernel/timers.i"
+	@echo "... FreeRTOS-kernel/timers.s"
 	@echo "... src/Sensor.o"
 	@echo "... src/Sensor.i"
 	@echo "... src/Sensor.s"

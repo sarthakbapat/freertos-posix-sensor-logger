@@ -4,7 +4,7 @@
 # compile C with gcc
 C_DEFINES = 
 
-C_INCLUDES = -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/include -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/src -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/inc -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger
+C_INCLUDES = -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/include -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/src -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/inc -I/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger
 
 C_FLAGSarm64 = -std=gnu99 -arch arm64
 

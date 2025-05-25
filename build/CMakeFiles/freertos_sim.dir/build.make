@@ -100,144 +100,144 @@ CMakeFiles/freertos_sim.dir/src/Sensor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/src/Sensor.c.s"
 	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/src/Sensor.c -o CMakeFiles/freertos_sim.dir/src/Sensor.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/tasks.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/tasks.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/tasks.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/tasks.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/tasks.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/tasks.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/tasks.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/tasks.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/list.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/list.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/list.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/list.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/list.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/list.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/list.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/list.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/queue.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/queue.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/queue.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/queue.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/queue.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/queue.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/queue.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/queue.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/timers.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/timers.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/timers.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/timers.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/timers.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/timers.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/timers.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/timers.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/event_groups.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/event_groups.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/event_groups.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/event_groups.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/event_groups.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/event_groups.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/event_groups.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/event_groups.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/MemMang/heap_4.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/MemMang/heap_4.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/MemMang/heap_4.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/MemMang/heap_4.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/MemMang/heap_4.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/MemMang/heap_4.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/MemMang/heap_4.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/MemMang/heap_4.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.s
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o: CMakeFiles/freertos_sim.dir/flags.make
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o: CMakeFiles/freertos_sim.dir/flags.make
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o: /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o: CMakeFiles/freertos_sim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o -MF CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o.d -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o -c /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c > CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c > CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.i
 
-CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s"
-	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
+CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s"
+	gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c -o CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.s
 
 # Object files for target freertos_sim
 freertos_sim_OBJECTS = \
 "CMakeFiles/freertos_sim.dir/src/main.c.o" \
 "CMakeFiles/freertos_sim.dir/src/Sensor.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o" \
-"CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o"
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o" \
+"CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o"
 
 # External object files for target freertos_sim
 freertos_sim_EXTERNAL_OBJECTS =
 
 freertos_sim: CMakeFiles/freertos_sim.dir/src/main.c.o
 freertos_sim: CMakeFiles/freertos_sim.dir/src/Sensor.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/tasks.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/list.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/queue.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/timers.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/event_groups.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/port.c.o
-freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/tasks.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/list.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/queue.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/timers.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/event_groups.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/MemMang/heap_4.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/port.c.o
+freertos_sim: CMakeFiles/freertos_sim.dir/FreeRTOS-kernel/portable/ThirdParty/GCC/Posix/utils/wait_for_event.c.o
 freertos_sim: CMakeFiles/freertos_sim.dir/build.make
 freertos_sim: CMakeFiles/freertos_sim.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sarthak123/Documents/SarthakData/Programming/C_VSCode/FreeRTOS_Projects/FreeRTOS_POSIX_Sim/freertos-posix-sensor-logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable freertos_sim"
