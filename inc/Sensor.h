@@ -41,14 +41,12 @@ void logger_task(void*);
 
 /* ------------------------------------------ */
 
-/* ------- Methods for logging -------------- */
+/* ------- Methods for logging data to file -------------- */
 
 FILE* log_init(void);
 
 void log_data(FILE**, SensorData*);
 
-void get_readable_timestamp(const time_t, char*);
-
-/* ------------------------------------------ */
+/* ------------------------------------------------------- */
 
 #endif
